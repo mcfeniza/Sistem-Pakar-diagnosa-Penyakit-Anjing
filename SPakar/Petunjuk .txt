@@ -1,0 +1,6 @@
+Pindahkan Folder SPakar ke XAMPP anda tepatnya :
+XAMPP/Htdocs/
+Kemudian masuk ke browser (mozilla) kemudian ketik :
+Localhost/phpmyadmin
+kemudian create database dengan nama : db_diagnosa_anjing
+Kemudian pilih Import Database dalam folder DataBase Lalu OK
